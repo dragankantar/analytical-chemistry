@@ -1,4 +1,4 @@
-# group work
+# group work for AnChem
 
 library("nleqslv")
 
